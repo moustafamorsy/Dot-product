@@ -27,4 +27,5 @@ function Findorthogonal(Firstpoint, Secondpoint) {
       break;
     }
   }
+  console.log(v1_v2);
 }
